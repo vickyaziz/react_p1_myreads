@@ -7,7 +7,7 @@ Overview
 Result of MyReads A Book Tracking App from React Nanodegree
 
 
-Instalation
+Installation
 ---
 
 The step to get started developing:
