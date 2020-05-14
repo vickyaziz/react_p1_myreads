@@ -1,10 +1,10 @@
-# **P1 - React Nanodegree - MyReads A Book Tracking App** 
+# **P1 - React Nanodegree - MyReads: A Book Tracking App** 
 [![Udacity - React NanoDegree](https://github.com/vickyaziz/sdc_p1_lanelines/blob/master/test_images/shield-udacity.png)](https://www.udacity.com/school-of-programming)
 
 
 Overview
 ---
-Result of MyReads A Book Tracking App from React Nanodegree
+Result of MyReads: A Book Tracking App from React Nanodegree
 
 
 Installation
