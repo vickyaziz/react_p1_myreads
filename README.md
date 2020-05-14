@@ -11,7 +11,7 @@ Instalation
 ---
 
 The step to get started developing:
-* Use [https://github.com/facebookincubator/create-react-app](Create React App) to bootstrap the project
+* Use [[https://github.com/facebookincubator/create-react-app](Create React App)] to bootstrap the project
 * Install all project dependencies with ```npm install```
 * start the development server with ```npm start```
 * run http://localhost:3000/ to open the app
